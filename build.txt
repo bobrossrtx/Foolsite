@@ -1,0 +1,3 @@
+displayName = Fools Mod
+author = Bobrossrtx
+version = 0.1
